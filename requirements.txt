@@ -1,6 +1,6 @@
 numpy
 sklearn
 pytest
-tensorflow==2.0.0-beta1
+tensorflow==2.5.0rc0
 pandas
 rdkit
